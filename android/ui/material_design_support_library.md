@@ -31,7 +31,7 @@ Design Support库的使用
 
 这是Design Support Library包下思维导图。
 
-![Design_Support_Library.svg](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/Design_Support_Library.svg)
+![Design_Support_Library.svg](https://github.com/lstNull/MasteringAndroid/blob/master/android/assets/design_support_library.svg)
 
 
 
