@@ -31,7 +31,7 @@ Design Support库的使用
 
 这是Design Support Library包下思维导图。
 
-![Design_Support_Library.svg](https://github.com/lstNull/MasteringAndroid/blob/master/android/assets/design_support_library.png)
+![Design_Support_Library.svg](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/design_support_library.png)
 
 
 
@@ -83,7 +83,7 @@ Design Support库的使用
 	```
 	运用以上布局代码就可以实现以下效果
 	
-	![md_textinputlayout_hint.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md_textinputlayout_hint.png)
+	![md_textinputlayout_hint.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md_textinputlayout_hint.png)
 	
 	**TextInputLayout**还有一个错误提示属性,以下为使用方式
 	
@@ -119,7 +119,7 @@ Design Support库的使用
            }		
            
       运用以上布局代码实现的效果如下图
-	![md_textinputlayout_error.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md_textinputlayout_error.png)
+	![md_textinputlayout_error.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md_textinputlayout_error.png)
 	
 
 
@@ -161,7 +161,7 @@ Design Support库的使用
 	```
 	FAB控件显示效果图
 	
-	![md-floatingfctionbutton.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-floatingfctionbutton.png)
+	![md-floatingfctionbutton.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-floatingfctionbutton.png)
 
 
 
@@ -182,7 +182,7 @@ Design Support库的使用
 	
 	效果图
 	
-	![md-snackbar.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-snackbar.png)
+	![md-snackbar.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-snackbar.png)
 
 
 4. **TabLayout**
@@ -225,7 +225,7 @@ Design Support库的使用
    ```
    
    效果图如下
-   	![md-tablayout.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-tablayout.png)
+   	![md-tablayout.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-tablayout.png)
    
 5. **NavigationView**
 	
@@ -246,7 +246,7 @@ Design Support库的使用
 	
 	简单图示效果
 	
-	![md_navigationiview.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md_navigationiview.png)
+	![md_navigationiview.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md_navigationiview.png)
 
 
 6. **CoordinatorLayout**	
@@ -283,7 +283,7 @@ Design Support库的使用
 	```
 	
 	效果图
-	![md-coordinatorlayout.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-coordinatorlayout.png)
+	![md-coordinatorlayout.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-coordinatorlayout.png)
 	
 	是不是完美解决了**Snackbar**演示中的问题，当然**CoordinatorLayout**还有更多的适用场景，这只是其中一个。
 
@@ -382,7 +382,7 @@ Design Support库的使用
 	```
 	以上就是利用**AppBarLayout**和**CollapsingToolbarLayout**实现的Scrolling效果，还可以设置AppBarLayout的滑动监听、修改透明度和颜色变化等，有兴趣可以研究下用AppBarLayout和CollapsingToolbarLayout实现更棒的效果。
 	
-	![md_scrolling.gif](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md_scrolling.gif)
+	![md_scrolling.gif](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md_scrolling.gif)
 	
 9. **MaterialButton**
 
@@ -412,7 +412,7 @@ Design Support库的使用
 	```
 	
 	效果图:
-	![md-materialbutton.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-materialbutton.png)
+	![md-materialbutton.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-materialbutton.png)
     
 
 10. **Chip** & **ChipGroup**
@@ -485,7 +485,7 @@ Design Support库的使用
 	```
 	
 	效果图
-	![md-chip.gif](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-chip.gif)
+	![md-chip.gif](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-chip.gif)
 	
 	**Chip**继承至**AppCompatCheckBox**组件，基础用法可参考AppCompatCheckBox,常用事件监听有OnClickListener和OnCheckedChangeListener,Chip基础用法基本就到此为止，还有更多自定义空间属性请大家自行查阅。
 	
@@ -496,7 +496,7 @@ Design Support库的使用
 	* 只有当其中包裹的 Chip 是 checkable=true 时，才具有选中效果
 
 	效果一
-	![md-chipgroup1.gif](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-chipgroup1.gif)
+	![md-chipgroup1.gif](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-chipgroup1.gif)
 	
 	代码块
 	
@@ -551,7 +551,7 @@ Design Support库的使用
 	```
 	效果二
 	
-	![md-chipgroup2.gif](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md-chipgroup2.gif)
+	![md-chipgroup2.gif](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md-chipgroup2.gif)
 	
 	代码块
 	
@@ -654,7 +654,7 @@ Design Support库的使用
     </android.support.design.card.MaterialCardView>
 	```
 	效果图
-	![md_materialcardview.png](https://github.com/yifandui/MasteringAndroid/tree/master/android/assets/md_materialcardview.png)
+	![md_materialcardview.png](https://github.com/yifandui/MasteringAndroid/blob/master/android/assets/md_materialcardview.png)
 	
 
 
